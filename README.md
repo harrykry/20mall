@@ -1,1 +1,1 @@
-对ssm框架的javaweb项目使用springbooot+springcloud重构。
+对ssm框架的javaweb项目使用springbooot+springcloud简单重构。
